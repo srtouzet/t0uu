@@ -1,7 +1,6 @@
 ![image](https://user-images.githubusercontent.com/77351885/114595211-81023400-9c64-11eb-90d1-a8fb84897ba6.png)
 
-:wave: Hola! Soy Santiago!
-Soy un aspirante a Developer Full Stack
+:wave: Hola! Me llamo Santiago y Soy un aspirante a Developer Full Stack
 Actualmente estoy aprendiendo estos lenguajes<br/>
 ->HTML (Aprendendido).<br/>
 ->CSS (En perfeccionamiento pero ya aprendido).<br/>
