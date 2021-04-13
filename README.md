@@ -12,6 +12,11 @@ Actualmente estoy aprendiendo estos lenguajes<br/>
 ->NodeJS<br/>
 ->SQL<br/>
 ->NOSQL<br/>
-https://github-readme-stats.vercel.app/api?username=t0uu&show_icons=true&theme=dark
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=t0uu&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=t0uu&repo=convoychat" />
+</a>
 
 <!--Futuro Perfil Developer Full Stack-->
