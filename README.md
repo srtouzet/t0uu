@@ -1,4 +1,5 @@
-![image](https://user-images.githubusercontent.com/77351885/114594996-45676a00-9c64-11eb-8081-ee6476db86c3.png)
+![image](https://user-images.githubusercontent.com/77351885/114594996-45676a00-9c64-11eb-8081-ee6476db86c3.png)![image](https://user-images.githubusercontent.com/77351885/114595172-75167200-9c64-11eb-836c-19be9c211560.png)
+
 
 
 Hola! Soy Santiago!
