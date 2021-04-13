@@ -1,5 +1,5 @@
+<img src="https://images.pexels.com/photos/301614/pexels-photo-301614.jpeg?cs=srgb&dl=pexels-pixabay-301614.jpg&fm=jpg width="400px" height="300px"/>
 Hola! Soy @t0uu
-<img src="https://images.pexels.com/photos/301614/pexels-photo-301614.jpeg?cs=srgb&dl=pexels-pixabay-301614.jpg&fm=jpg"/>
 Soy un aspirante a Developer Full Stack
 <hr style="color: red;">
 Actualmente estoy aprendiendo estos lenguajes<br/>
