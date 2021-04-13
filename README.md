@@ -1,6 +1,6 @@
 Hola! Soy Santiago! 
 Soy un aspirante a Developer Full Stack
-<hr style="color: red;">
+![image](https://user-images.githubusercontent.com/77351885/114594996-45676a00-9c64-11eb-8081-ee6476db86c3.png)
 Actualmente estoy aprendiendo estos lenguajes<br/>
 ->HTML (Aprendendido).<br/>
 ->CSS (En perfeccionamiento pero ya aprendido).<br/>
