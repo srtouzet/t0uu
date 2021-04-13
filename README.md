@@ -12,5 +12,6 @@ Actualmente estoy aprendiendo estos lenguajes<br/>
 ->NodeJS<br/>
 ->SQL<br/>
 ->NOSQL<br/>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=t0uu)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--Futuro Perfil Developer Full Stack-->
