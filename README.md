@@ -1,5 +1,5 @@
 Hola! Soy @t0uu
-<img src="https://www.pexels.com/es-es/foto/pagoda-en-disparo-en-escala-de-grises-301614/"/>
+<img src="https://images.pexels.com/photos/301614/pexels-photo-301614.jpeg?cs=srgb&dl=pexels-pixabay-301614.jpg&fm=jpg"/>
 Soy un aspirante a Developer Full Stack
 <hr style="color: red;">
 Actualmente estoy aprendiendo estos lenguajes<br/>
