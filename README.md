@@ -13,6 +13,6 @@ Actualmente estoy aprendiendo estos lenguajes<br/>
 ->SQL<br/>
 ->NOSQL<br/>
 <hr>
-<img src="https://github-readme-stats.vercel.app/api?username=t0uu&show_icons=true&theme=dark"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=t0uu&layout=compact"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=t0uu&show_icons=true&theme=dark"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=t0uu&layout=compact"/>
 <!--Futuro Perfil Developer Full Stack-->
