@@ -1,6 +1,4 @@
-![image](https://user-images.githubusercontent.com/77351885/114594996-45676a00-9c64-11eb-8081-ee6476db86c3.png)![image](https://user-images.githubusercontent.com/77351885/114595172-75167200-9c64-11eb-836c-19be9c211560.png)
-
-
+![image](https://user-images.githubusercontent.com/77351885/114595211-81023400-9c64-11eb-90d1-a8fb84897ba6.png)
 
 Hola! Soy Santiago!
 Soy un aspirante a Developer Full Stack
@@ -15,7 +13,8 @@ Actualmente estoy aprendiendo estos lenguajes<br/>
 ->NodeJS<br/>
 ->SQL<br/>
 ->NOSQL<br/>
-<hr>
+![image](https://user-images.githubusercontent.com/77351885/114595236-8790ab80-9c64-11eb-9c5e-311017e2b210.png)
+
 <a href="https://github.com/t0uu/github-readme-stats">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=t0uu&show_icons=true&theme=dark" />
 </a>
