@@ -15,8 +15,8 @@ Actualmente estoy aprendiendo estos lenguajes<br/>
 <hr>
 <a href="https://github.com/t0uu/github-readme-stats">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=t0uu&show_icons=true&theme=dark"/>
-/a>
+</a>
 <a href="https://github.com/t0uu/convoychat">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=t0uu&layout=compact"/>
-  /a>
+  </a>
 <!--Futuro Perfil Developer Full Stack-->
