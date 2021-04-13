@@ -13,5 +13,4 @@ Actualmente estoy aprendiendo estos lenguajes<br/>
 ->SQL<br/>
 ->NOSQL<br/>
 <img src="https://github-readme-stats.vercel.app/api?username=t0uu&show_icons=true&theme=dark"/>
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=t0uu"/>
 <!--Futuro Perfil Developer Full Stack-->
