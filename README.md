@@ -1,16 +1,6 @@
 Hola! Soy @t0uu
 Soy un aspirante a Developer Full Stack
-<hr style=".bookends:before;
-bookends:after 
-  position: absolute;
-  bottom: -3.536px;
-  width: 7.071px;
-  height: 7.071px;
-  display: block;
-  border-width: 0 7.071px 7.071px 0;
-  border-color: hsl(0, 0%, 50%);
-  border-style: double;
-  box-sizing: border-box;">
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fvignette.wikia.nocookie.net%2Fanimal-jam-clans-1%2Fimages%2Fb%2Fb6%2F4394920d04dayyyyy44754238ca8a4f33510e_red-divider-clip-art-christmas-line-divider-clipart_640-480.svg%2Frevision%2Flatest%2Fscale-to-width-down%2F640%3Fcb%3D20171203181402&f=1&nofb=1"/>
 Actualmente estoy aprendiendo estos lenguajes<br/>
 ->HTML (Aprendendido).<br/>
 ->CSS (En perfeccionamiento pero ya aprendido).<br/>
