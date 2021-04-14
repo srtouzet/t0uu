@@ -1,4 +1,6 @@
-<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F41%2F7e%2Fbe%2F417ebee986aec41629278b1e04cfbfe9.gif&f=1&nofb=1">
+<img align="center" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F41%2F7e%2Fbe%2F417ebee986aec41629278b1e04cfbfe9.gif&f=1&nofb=1">
+
+
 ![image](https://user-images.githubusercontent.com/77351885/114595211-81023400-9c64-11eb-90d1-a8fb84897ba6.png)
 
 :wave: Hola! Me llamo Santiago y Soy un aspirante a Developer Full Stack
