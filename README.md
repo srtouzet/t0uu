@@ -3,7 +3,8 @@
 
 
 
-![image](https://www.tutorialesteemit.com/wp-content/uploads/2018/07/Separadores-39.png)
+![image](https://user-images.githubusercontent.com/77351885/114696164-c0776180-9cf2-11eb-9aec-3a7c74a837c7.png)
+
 
 :wave: Hola! Me llamo Santiago y Soy un aspirante a Developer Full Stack
 
@@ -19,7 +20,8 @@ Actualmente estoy aprendiendo estos lenguajes<br/>
 ->SQL<br/>
 ->NOSQL<br/>
 
-<img src="https://www.tutorialesteemit.com/wp-content/uploads/2018/07/Separadores-39.png">
+![image](https://user-images.githubusercontent.com/77351885/114696195-c8cf9c80-9cf2-11eb-92cd-2471318b89a6.png)
+
 
 
 
