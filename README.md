@@ -3,7 +3,7 @@
 
 
 
-![image](https://user-images.githubusercontent.com/77351885/114695794-624a7e80-9cf2-11eb-9a7c-7ade8a774e25.png)
+![image](https://www.tutorialesteemit.com/wp-content/uploads/2018/07/Separadores-39.png)
 
 :wave: Hola! Me llamo Santiago y Soy un aspirante a Developer Full Stack
 
