@@ -8,17 +8,10 @@
 
 :wave: Hola! Me llamo Santiago y Soy un aspirante a Developer Full Stack
 
-Actualmente estoy aprendiendo estos lenguajes<br/>
-->HTML (Aprendendido).<br/>
-->CSS (En perfeccionamiento pero ya aprendido).<br/>
+Actualmente poseo estos conocimientos! <br/>
+->HTML <br/>
+->CSS <br/>
 -JS (Actualmente en Aprendizaje).<br/>
-<--En lista de Aprendizaje a futuro--> <br/>
-->React<br/>
-->Vue<br/>
-->Angular<br/>
-->NodeJS<br/>
-->SQL<br/>
-->NOSQL<br/>
 
 ![image](https://user-images.githubusercontent.com/77351885/114696195-c8cf9c80-9cf2-11eb-92cd-2471318b89a6.png)
 
