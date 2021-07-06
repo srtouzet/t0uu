@@ -6,12 +6,13 @@
 ![image](https://user-images.githubusercontent.com/77351885/114696164-c0776180-9cf2-11eb-9aec-3a7c74a837c7.png)
 
 
-:wave: Hola! Me llamo Santiago y Soy un aspirante a Developer Full Stack
+:wave: Hola! Me llamo Santiago y Soy un Front-End Developer
 
-Actualmente poseo estos conocimientos! <br/>
+Las tecnologias que manejo actualmente <br/>
 ->HTML <br/>
-->CSS <br/>
--JS (Actualmente en Aprendizaje).<br/>
+->CSS  <br/>
+->Git  <br/>
+->JS   <br/>
 
 ![image](https://user-images.githubusercontent.com/77351885/114696195-c8cf9c80-9cf2-11eb-92cd-2471318b89a6.png)
 
@@ -26,4 +27,4 @@ Actualmente poseo estos conocimientos! <br/>
 <a href="https://github.com/t0uu/convoychat">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=t0uu&layout=compact" />
   </a>
-<!--Futuro Perfil Developer Full Stack-->
+
