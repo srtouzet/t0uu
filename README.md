@@ -8,7 +8,7 @@
 
 :wave: Hola! Me llamo Santiago y Soy un Front-End Developer
 
-Las tecnologias que manejo actualmente <br/>
+Las tecnologias que manejo actualmente son las siguientes: <br/>
 ->HTML <br/>
 ->CSS  <br/>
 ->Git  <br/>
