@@ -11,6 +11,7 @@
 Las tecnologias que manejo actualmente son las siguientes: <br/>
 ->HTML <br/>
 ->CSS  <br/>
+->SASS <br/>
 ->Git  <br/>
 ->JS   <br/>
 
