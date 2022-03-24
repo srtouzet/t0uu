@@ -13,7 +13,7 @@ Las tecnologias que manejo actualmente son las siguientes: <br/>
 ->Git  <br/>
 ->JS   <br/>
 
-Herramientas de diseño:
+Herramientas de diseño:<br/>
 Figma <br/>
 Adobe XD <br/>
 Adobe illustrator <br/>
