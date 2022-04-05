@@ -31,5 +31,3 @@ Adobe illustrator <br/>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=t0uu&layout=compact" />
   </a>
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=t0uu&theme=dark" />
-
