@@ -1,33 +1,23 @@
-<img align="center" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F41%2F7e%2Fbe%2F417ebee986aec41629278b1e04cfbfe9.gif&f=1&nofb=1">
+<h1 align="center">Hola 👋,Soy Santiago Soy un Frontend Developer</h1>
+<h3 align="center">Me gusta diseñar y crear mis propios diseño y aplicarlos a la realidad con distintas tecnologías,como también me gusta estar en constante actualizado en base a las nuevas tecnologías.</h3>
 
 
 
 
-![image](https://user-images.githubusercontent.com/77351885/114696164-c0776180-9cf2-11eb-9aec-3a7c74a837c7.png)
+- 🌱 Actualmente estoy aprendiendo las siguientes tecnlogías **Typescript, Three.js, Next.js, Node.js**
 
+- 📫 ¿Cómo podes contactarme? **srtouzet@gmail.com**
 
-Las tecnologias que manejo actualmente son las siguientes: <br/>
-->HTML <br/>
-->CSS  <br/>
-->SASS <br/>
-->Git  <br/>
-->JS   <br/>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/santiago-touzet/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/santiago-touzet/" height="30" width="40" /></a>
+</p>
 
-Herramientas de diseño:<br/>
-Figma <br/>
-Adobe XD <br/>
-Adobe illustrator <br/>
-![image](https://user-images.githubusercontent.com/77351885/114696195-c8cf9c80-9cf2-11eb-92cd-2471318b89a6.png)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=t0uu&show_icons=true&locale=en&layout=compact" alt="t0uu" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=t0uu&show_icons=true&locale=en" alt="t0uu" /></p>
 
-
-
-<a href="https://github.com/t0uu/github-readme-stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=t0uu&show_icons=true&theme=dark" />
-</a>
-
-<a href="https://github.com/t0uu/convoychat">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=t0uu&layout=compact" />
-  </a>
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=t0uu&" alt="t0uu" /></p>
